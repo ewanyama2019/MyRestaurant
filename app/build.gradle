@@ -33,6 +33,16 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.2.0'
+
+    //Espresso Dependencies
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+    androidTestImplementation "androidx.test:rules:1.1.0"
+
+    //Robolectric Dependencies
     testImplementation "org.robolectric:robolectric:3.8"
+
+    //ButterKnife Dependencies
+    implementation 'com.jakewharton:butterknife:8.8.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+
 }
