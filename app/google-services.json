@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "496011608237",
+    "firebase_url": "https://myrestaurant-dcdf4.firebaseio.com",
+    "project_id": "myrestaurant-dcdf4",
+    "storage_bucket": "myrestaurant-dcdf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496011608237:android:284e5f04f46f2bc6",
+        "android_client_info": {
+          "package_name": "com.wanyama.myrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496011608237-opcpfel3novedr91jf59fg1vqnpup33f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wanyama.myrestaurant",
+            "certificate_hash": "c3244e4aac8303f5c7183e6f88051cecdb74d240"
+          }
+        },
+        {
+          "client_id": "496011608237-mvletgm04u4l8doi3lqvfbv2douq94mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA38CoKmugwAndF53Vdq5K6O3XTM1I44q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496011608237-mvletgm04u4l8doi3lqvfbv2douq94mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
